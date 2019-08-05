@@ -1,7 +1,7 @@
 import React from 'react'
 
 import Footer from './Footer'
-import logo from '../assets/images/logo.png'
+import logo from '../assets/images/profile_pic.png'
 
 class Header extends React.Component {
     render() {
