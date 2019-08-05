@@ -34,6 +34,7 @@ class Gallery extends Component {
                         }}
                     >
                         <img src={obj.thumbnail} />
+                        {/* <iframe src={obj.source} /> */}
                     </a>
 
                     <h3>{obj.caption}</h3>
