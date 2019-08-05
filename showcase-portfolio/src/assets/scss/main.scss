@@ -531,14 +531,14 @@
 		}
 
 		&.avatar {
-			border-radius: 100%;
+			border-radius: 0%;
 
 			&:before {
 				display: none;
 			}
 
 			img {
-				border-radius: 100%;
+				border-radius: 0%;
 				width: 100%;
 			}
 		}

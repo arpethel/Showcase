@@ -45,10 +45,10 @@ class HomeIndex extends React.Component {
 
                     <section id="one">
                         <header className="major">
-                            <h2>From the moment I discovered the DOM<br />
+                            <h2>From the moment I discovered the DOM <br />
                             I instantly fell in love with coding.</h2>
                         </header>
-                        <p>I spent weeks delving into the world of software development before I knew it had captured my undivided attention. Now, I welcome engaging challenges, continually acquire and sharpen skills for creating high-quality software. What started with a simple right-click to "Inspect element" has become a full-fledged passion for delivering meaningful solutions and empowering everyone to achieve more.</p>
+                        <p>I spent weeks delving into the world of software development before I knew it had captured my undivided attention. Now, I welcome engaging challenges, continually acquire and sharpen skills for creating high-quality software. What started with a simple right-click to "Inspect element" has become a full-fledged passion for delivering meaningful solutions and empowering businesses to stay focused on their customers.</p>
                     </section>
 
                     <section id="two">
