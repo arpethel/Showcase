@@ -45,13 +45,10 @@ class HomeIndex extends React.Component {
 
                     <section id="one">
                         <header className="major">
-                            <h2>Ipsum lorem dolor aliquam ante commodo<br />
-                            magna sed accumsan arcu neque.</h2>
+                            <h2>From the moment I discovered the DOM<br />
+                            I instantly fell in love with coding.</h2>
                         </header>
-                        <p>Accumsan orci faucibus id eu lorem semper. Eu ac iaculis ac nunc nisi lorem vulputate lorem neque cubilia ac in adipiscing in curae lobortis tortor primis integer massa adipiscing id nisi accumsan pellentesque commodo blandit enim arcu non at amet id arcu magna. Accumsan orci faucibus id eu lorem semper nunc nisi lorem vulputate lorem neque cubilia.</p>
-                        <ul className="actions">
-                            <li><a href="#" className="button">Learn More</a></li>
-                        </ul>
+                        <p>I spent weeks delving into the world of software development before I knew it had captured my undivided attention. Now, I welcome engaging challenges, continually acquire and sharpen skills for creating high-quality software. What started with a simple right-click to "Inspect element" has become a full-fledged passion for delivering meaningful solutions and empowering everyone to achieve more.</p>
                     </section>
 
                     <section id="two">
@@ -71,7 +68,7 @@ class HomeIndex extends React.Component {
 
                     <section id="three">
                         <h2>Get In Touch</h2>
-                        <p>Accumsan pellentesque commodo blandit enim arcu non at amet id arcu magna. Accumsan orci faucibus id eu lorem semper nunc nisi lorem vulputate lorem neque lorem ipsum dolor.</p>
+                        <p>I currently stay in Kingsland, GA. I'll be relocating sometime later this year to explore new opportunities. If you'd like to get in touch, just reach out.</p>
                         <div className="row">
                             <div className="8u 12u$(small)">
                                 <form method="post" action="#">
